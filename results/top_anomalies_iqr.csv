@@ -1,0 +1,11 @@
+anomaly_score_iqr,is_anomaly_iqr,files_changed,branches_count,time_since_previous_commit,time_since_previous_commit_days,commit_frequency_24h
+inf,True,1,111,820.0,0.0094907407407407,24
+inf,True,3,109,101.0,0.0011689814814814,17
+inf,True,4,96,4258.0,0.0492824074074074,11
+inf,True,1,86,303.0,0.0035069444444444,39
+inf,True,3,86,4310.0,0.0498842592592592,9
+inf,True,1,34,941.0,0.0108912037037037,15
+inf,True,1,19,167.0,0.0019328703703703,16
+inf,True,1,14,16199.0,0.1874884259259259,10
+inf,True,45,14,41.0,0.000474537037037,13
+inf,True,45,14,0.0,0.0,13

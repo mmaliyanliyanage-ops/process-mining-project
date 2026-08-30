@@ -1,0 +1,14 @@
+{
+  "iqr_anomalies_count": 8979,
+  "iqr_anomalies_percentage": 32.24983837368005,
+  "zscore_anomalies_count": 1780,
+  "zscore_anomalies_percentage": 6.39321887795417,
+  "combined_anomalies_count": 8979,
+  "combined_anomalies_percentage": 32.24983837368005,
+  "iqr_anomaly_score_mean": 0.10538997294975541,
+  "iqr_anomaly_score_std": 0.6038409964034794,
+  "zscore_anomaly_score_mean": 0.6563746248154151,
+  "zscore_anomaly_score_std": 0.20227838205786997,
+  "combined_anomaly_score_mean": 0.3808822988825853,
+  "combined_anomaly_score_std": 0.37574247569882685
+}
